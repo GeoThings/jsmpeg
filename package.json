@@ -17,10 +17,6 @@
     "mpeg1",
     "mp2"
   ],
-  "files": [
-    "dist",
-    "README.md"
-  ],
   "author": "Dominic Szablewski",
   "license": "MIT",
   "bugs": {
